@@ -8,7 +8,7 @@
         "actor_actress": ["Leonardo DiCaprio", "Joseph Gordon-Levitt"],
         "budget": "200 M",
         "category": "Science Fiction",
-        "img": "inception.jpg",
+        "img": "https://i.ibb.co/rpmPKtS/inception-2010-directed-by-christopher-nolan-and-starring-leonardo-dicaprio-joseph-gordon-levitt-ell.jpg",
         "rating": 5.8
     },
     {
@@ -20,7 +20,7 @@
         "actor_actress": ["Tim Robbins", "Morgan Freeman"],
         "budget": "25 M",
         "category": "Drama",
-        "img": "shawshank_redemption.jpg",
+        "img": "https://i.ibb.co/x6d9M1V/9964546b0ba1f6e14a6045e34b341f8ca2a3569752c5afed95b89682fcde1a68-RI-V-TTW.jpg",
         "rating": 15.3
     },
     {
@@ -32,7 +32,7 @@
         "actor_actress": ["Marlon Brando", "Al Pacino"],
         "budget": "6 M",
         "category": "Crime",
-        "img": "the_godfather.jpg",
+        "img": "https://i.ibb.co/bmbrNmt/31a1380a004ba2b6dc00355c2f786841.jpg",
         "rating": 7.2
     },
     {
@@ -44,7 +44,7 @@
         "actor_actress": ["Christian Bale", "Heath Ledger"],
         "budget": "185 M",
         "category": "Action",
-        "img": "the_dark_knight.jpg",
+        "img": "https://i.ibb.co/KG9Jb7B/the-dark-knight-is-a-2008-british-american-epic-superhero-film-directed-EC7-REH.jpg",
         "rating": 10.0
     },
     {
@@ -56,7 +56,7 @@
         "actor_actress": ["John Travolta", "Uma Thurman"],
         "budget": "8 M",
         "category": "Crime",
-        "img": "pulp_fiction.jpg",
+        "img": "https://i.ibb.co/gZDNW67/pulp-fiction-md-web.jpg",
         "rating": 13.9
     },
     {
@@ -68,7 +68,7 @@
         "actor_actress": ["Matthew McConaughey", "Anne Hathaway"],
         "budget": "165 M",
         "category": "Science Fiction",
-        "img": "interstellar.jpg",
+        "img": "https://i.ibb.co/DD9SbKM/interstellar-2014-directed-by-christopher-nolan-and-starring-matthew-mcconaughey-anne-hathaway-jessi.jpg",
         "rating": 3.6
     },
     {
@@ -80,7 +80,7 @@
         "actor_actress": ["Brad Pitt", "Edward Norton"],
         "budget": "63 M",
         "category": "Drama",
-        "img": "fight_club.jpg",
+        "img": "https://i.ibb.co/pw0XgwZ/actors-of-fight-club-ibgirl59hxvxr5y4.jpg",
         "rating": 8.8
     },
     {
@@ -92,7 +92,7 @@
         "actor_actress": ["Tom Hanks", "Robin Wright"],
         "budget": "55 M",
         "category": "Drama",
-        "img": "forrest_gump.jpg",
+        "img": "https://i.ibb.co/89wNNPF/forrest-gump-movie-poster-1994-EJWNWN.jpg",
         "rating": 5.8
     },
     {
@@ -104,7 +104,7 @@
         "actor_actress": ["Keanu Reeves", "Laurence Fishburne"],
         "budget": "63 M",
         "category": "Science Fiction",
-        "img": "the_matrix.jpg",
+        "img": "https://i.ibb.co/b2FM5Vr/unnamed.jpg",
         "rating": 7.7
     },
     {
@@ -116,7 +116,7 @@
         "actor_actress": ["Elijah Wood", "Ian McKellen"],
         "budget": "93 M",
         "category": "Fantasy",
-        "img": "lotr_fellowship.jpg",
+        "img": "https://i.ibb.co/Nn4zkvq/MV5-BN2-Ey-Zj-M3-Nz-Ut-NWUz-Mi00-MTgx-LWI0-NTct-Mz-Y4-M2-Vl-OTdj-ZWRi-Xk-Ey-Xk-Fqc-Gde-QXVy-NDUz-OTQ.jpg",
         "rating": 11.8
     }
 ]
