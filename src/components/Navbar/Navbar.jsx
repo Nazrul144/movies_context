@@ -3,10 +3,12 @@ import { NavLink } from 'react-router-dom';
 
 const Navbar = () => {
     const navLinks = <>
-    <li><NavLink to='/'>AllMovies</NavLink></li>
-    <li><NavLink to='/topMovies'>TopMovies</NavLink></li>
-    <li><NavLink to='/rewardedMovies'>RewardedMovies</NavLink></li>
-    <li><NavLink to='/mostIncomeMovies'>MostIncomeMovies</NavLink></li>
+    <li><NavLink to='/' className={({isActive})=> isActive? "border-2 border-green-400 rounded-xl": " "}>AllMovies</NavLink></li>
+
+
+    <li><NavLink to='/topMovies'className={({isActive})=> isActive? 'border-2 border-green-400 rounded-lg': ''}>TopMovies</NavLink></li>
+    <li><NavLink to='/rewardedMovies' className={({isActive})=> isActive? 'border-2 border-green-400 rounded-lg': ''}>RewardedMovies</NavLink></li>
+    <li><NavLink to='/mostIncomeMovies' className={({isActive})=> isActive? 'border-2 border-green-400 rounded-lg': ''}>MostIncomeMovies</NavLink></li>
     </>
     return (
         <div>
