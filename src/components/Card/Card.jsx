@@ -5,7 +5,7 @@ const Card = ({movie}) => {
     return (
         <div>
             <div className="card h-full bg-base-100 shadow-xl">
-                <figure><img src={img} alt="Shoes" /></figure>
+                <figure><img src={img} alt="Photo" /></figure>
                 <div className="card-body">
                     <h2 className="card-title">Movie Name: {movie_name}</h2>
                     <p> {actor_actress}</p>
