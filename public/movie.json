@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "movie_name": "Inception",
+        "views": "12M",
+        "movie_id": "tt1375666",
+        "director": "Christopher Nolan",
+        "actor_actress": ["Leonardo DiCaprio", "Joseph Gordon-Levitt"],
+        "budget": "200 M",
+        "category": "Science Fiction",
+        "img": "inception.jpg",
+        "rating": 5.8
+    },
+    {
+        "id": 2,
+        "movie_name": "The Shawshank Redemption",
+        "views": "15M",
+        "movie_id": "tt0111161",
+        "director": "Frank Darabont",
+        "actor_actress": ["Tim Robbins", "Morgan Freeman"],
+        "budget": "25 M",
+        "category": "Drama",
+        "img": "shawshank_redemption.jpg",
+        "rating": 15.3
+    },
+    {
+        "id": 3,
+        "movie_name": "The Godfather",
+        "views": "18M",
+        "movie_id": "tt0068646",
+        "director": "Francis Ford Coppola",
+        "actor_actress": ["Marlon Brando", "Al Pacino"],
+        "budget": "6 M",
+        "category": "Crime",
+        "img": "the_godfather.jpg",
+        "rating": 7.2
+    },
+    {
+        "id": 4,
+        "movie_name": "The Dark Knight",
+        "views": "20M",
+        "movie_id": "tt0468569",
+        "director": "Christopher Nolan",
+        "actor_actress": ["Christian Bale", "Heath Ledger"],
+        "budget": "185 M",
+        "category": "Action",
+        "img": "the_dark_knight.jpg",
+        "rating": 10.0
+    },
+    {
+        "id": 5,
+        "movie_name": "Pulp Fiction",
+        "views": "17M",
+        "movie_id": "tt0110912",
+        "director": "Quentin Tarantino",
+        "actor_actress": ["John Travolta", "Uma Thurman"],
+        "budget": "8 M",
+        "category": "Crime",
+        "img": "pulp_fiction.jpg",
+        "rating": 13.9
+    },
+    {
+        "id": 6,
+        "movie_name": "Interstellar",
+        "views": "14M",
+        "movie_id": "tt0816692",
+        "director": "Christopher Nolan",
+        "actor_actress": ["Matthew McConaughey", "Anne Hathaway"],
+        "budget": "165 M",
+        "category": "Science Fiction",
+        "img": "interstellar.jpg",
+        "rating": 3.6
+    },
+    {
+        "id": 7,
+        "movie_name": "Fight Club",
+        "views": "13M",
+        "movie_id": "tt0137523",
+        "director": "David Fincher",
+        "actor_actress": ["Brad Pitt", "Edward Norton"],
+        "budget": "63 M",
+        "category": "Drama",
+        "img": "fight_club.jpg",
+        "rating": 8.8
+    },
+    {
+        "id": 8,
+        "movie_name": "Forrest Gump",
+        "views": "16M",
+        "movie_id": "tt0109830",
+        "director": "Robert Zemeckis",
+        "actor_actress": ["Tom Hanks", "Robin Wright"],
+        "budget": "55 M",
+        "category": "Drama",
+        "img": "forrest_gump.jpg",
+        "rating": 5.8
+    },
+    {
+        "id": 9,
+        "movie_name": "The Matrix",
+        "views": "19M",
+        "movie_id": "tt0133093",
+        "director": "The Wachowskis",
+        "actor_actress": ["Keanu Reeves", "Laurence Fishburne"],
+        "budget": "63 M",
+        "category": "Science Fiction",
+        "img": "the_matrix.jpg",
+        "rating": 7.7
+    },
+    {
+        "id": 10,
+        "movie_name": "The Lord of the Rings: The Fellowship of the Ring",
+        "views": "21M",
+        "movie_id": "tt0120737",
+        "director": "Peter Jackson",
+        "actor_actress": ["Elijah Wood", "Ian McKellen"],
+        "budget": "93 M",
+        "category": "Fantasy",
+        "img": "lotr_fellowship.jpg",
+        "rating": 11.8
+    }
+]
